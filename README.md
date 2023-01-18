@@ -1,7 +1,7 @@
 # ic-02
 ic-02 - Intro to HTML and CSS
 
-(GitHub Pages)[insert your hyperlink here]
+(GitHub Pages)[https://ds4200-s23-class.github.io/ic-02-schallerv/]
 
 ## Purpose
 
@@ -26,7 +26,7 @@ Clone this repo and work locally. Be sure to push the final version of your code
 
 1. After completing the previous step, draw the DOM for your webpage. Add a png or jpeg of your drawing under p1 inside of div1 (you will need to use an <img> tag).  
 
-1. Create an *external* stylesheet for your webpage. Name it style.css and add the code nescessary to reference it in your index.html file. Using this stylesheet please:
+1. Create an *external* stylesheet for your webpage. Name it style.css and add the code necessary to reference it in your index.html file. Using this stylesheet please:
    - Set the font of your webpage to Arial. 
    - Center "Intro to HTML and CSS" and your name. 
    - Give any objects with the class "container" a black border. 
